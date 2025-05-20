@@ -49,4 +49,25 @@ Software Engineering.
 | 2024 | 스마트 창문 시스템 | 창의적 종합설계 경진대회 | Python (Web), C++ |
 | 2024 | ForeRover-SAT | 캔위성 경연대회 | C++, Python (GUI) |
 | 2024 | 지능형 스마트 화분 | 창의적공학설계 학기과제 | Python (AI) |
- 
+
+
+<iframe src="https://github-readme-stats.vercel.app/api?username=gijunmoon"></iframe>
+
+<div style="display: flex; align-items: center; border: 1px solid #eee; border-radius: 12px; padding: 16px; background: #fafbfc; max-width: 420px; box-shadow: 0 2px 8px #eee;">
+  <img src="{{ site.data.solvedac_profile.profileImageUrl }}" alt="프로필" style="width: 72px; height: 72px; border-radius: 50%; margin-right: 20px; border: 2px solid #ddd;">
+  <div>
+    <div style="display: flex; align-items: center;">
+      <strong style="font-size: 1.3em;">{{ site.data.solvedac_profile.handle }}</strong>
+      <img src="https://static.solved.ac/tier_small/{{ site.data.solvedac_profile.tier }}.svg"
+           alt="티어" style="width: 32px; height: 32px; margin-left: 10px;">
+    </div>
+    <div style="margin-top: 6px; color: #666;">
+      <span>푼 문제 수: <b>{{ site.data.solvedac_profile.solvedCount }}</b></span><br>
+      <span>랭킹: <b>#{{ site.data.solvedac_profile.rank }}</b></span>
+    </div>
+    <div style="margin-top: 8px;">
+      <a href="https://solved.ac/profile/{{ site.data.solvedac_profile.handle }}" target="_blank" style="color: #1e90ff; text-decoration: none;">solved.ac 프로필 보기 →</a>
+    </div>
+  </div>
+</div>
+

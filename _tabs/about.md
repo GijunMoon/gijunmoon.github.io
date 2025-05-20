@@ -4,8 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Software Engineering.
-{: .prompt-tip }
+```
+Software Engineering.  
+주 관심 분야: 시스템 소프트웨어, 소프트웨어 최적화
+```
 
 **Education**
 

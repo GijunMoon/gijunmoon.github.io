@@ -4,10 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-```
-Software Engineering.  
-주 관심 분야: 시스템 소프트웨어, 소프트웨어 최적화
-```
+<aside class="profile">
+  <p>
+    &nbsp;Software Engineering.
+  </p>
+
+  <p>
+    <i class="fas fa-lightbulb"></i>
+    &nbsp;Main area of interest: system software, optimization
+  </p>
+</aside>
 
 **Education**
 
@@ -19,19 +25,11 @@ Software Engineering.
 
 | 연도 | 상세 |
 | --- | --- |
-| 2024 | 전국대학생로켓발사대회 발사부문 금상 (한국항공우주연구원장) |
-| 2024 | 창의적 종합설계 경진대회 예선 동상 (부산대학교 공학교육혁신센터장) |
-| 2024 | 경상국립대 RE-Meet 연구체험 프로그램 우수상 (항공우주공학부장) |
-| 2024 | 경상국립대 동아리 학술대회 은상 (항공우주공학부장) |
-
-**Completion details (대학 강의)**
-
-| 연도 | 상세 |
-| --- | --- |
-| 2025 | 기계학습 |
-| 2025 | 자료구조 |
-| 2025 | 항공드론영상처리 |
-| 2024 | 소프트웨어공학의 이해 |
+| 2024 | 전국대학생로켓발사대회 발사부문 금상 (한국항공우주연구원장상) |
+| 2024 | 창의적 종합설계 경진대회 예선 동상 (부산대학교 공학교육혁신센터장상) |
+| 2024 | 경상국립대 RE-Meet 연구체험 프로그램 우수상 (항공우주공학부장상) |
+| 2024 | 경상국립대 동아리 학술대회 은상 (항공우주공학부장상) |
+| 2024 | GNU ICEE 창의융합공학동아리 경진대회 장려상 (경상국립대학교 공학교육혁신센터장상) |
 
 **Completion details (외부 교육)**
 
@@ -42,13 +40,16 @@ Software Engineering.
 
 **Projects**
 
-| 연도 | 프로젝트 명 | 상세 | 기술스택 |
-| --- | --- |
-| 2025 | 로켓 지상 지원 소프트웨어 | 전국대학생로켓발사대회 | C# (WPF) |
-| 2024 | Mesh Network를 활용한 비행선의 비행 제어 및 실시간 데이터 통신 시스템 개발 | RE-Meet 연구체험 프로그램 | C++ |
-| 2024 | 스마트 창문 시스템 | 창의적 종합설계 경진대회 | Python (Web), C++ |
-| 2024 | ForeRover-SAT | 캔위성 경연대회 | C++, Python (GUI) |
-| 2024 | 지능형 스마트 화분 | 창의적공학설계 학기과제 | Python (AI) |
+| 연도 | 프로젝트명 | 세부사항 | 역할 수행 | 기술 스택 |
+| --- | --- | --- | --- | --- |
+| 2025 | 팝업스토어 POS 시스템 | 개인 프로젝트 | 풀스택 개발 | HTML, CSS, JS, Firebase |
+| 2025 | 로켓 지상지원 SW | 전국대학생로켓발사대회 | 메인 SW 개발 | C# (WPF) |
+| 2025 | 로켓 통신 SW | 전국대학생로켓발사대회 | RF 통신용 STM32 SW 개발 | C, STM32 |
+| 2024 | Mesh Network를 활용한 비행선의 비행 제어 및 실시간 데이터 통신 시스템 개발 | RE-Meet 연구체험 프로그램 | ESP32 기반 Mesh Network 시스템 개발 | C++ |
+| 2024 | 리액션휠 기반 로켓의 롤 회전 제어기 | GNU ICEE 창의융합공학동아리 경진대회 | 컨트롤러 개발, 제어 시뮬레이터 개발 | C++(임베디드), C#(시뮬레이션) |
+| 2024 | 스마트 창문 시스템 | 창의적 종합설계 경진대회 | 웹 백엔드 개발 | Python (Web) |
+| 2024 | ForeRover-SAT | 캔위성 경연대회 | Avionics HW/SW 개발, 지상지원 SW 개발 | C++, Python (GUI) |
+| 2024 | 지능형 스마트 화분 | 창의적공학설계 학기과제 | ML기반 SW 개발 | Python (AI) |
 
 
 <iframe src="https://github-readme-stats.vercel.app/api?username=gijunmoon"></iframe>

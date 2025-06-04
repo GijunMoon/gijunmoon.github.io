@@ -11,7 +11,7 @@ order: 4
 
   <p>
     <i class="fas fa-lightbulb"></i>
-    &nbsp;Main area of interest: system software, optimization
+    &nbsp;Main area of interest: system software, software optimization
   </p>
 </aside>
 
@@ -26,10 +26,10 @@ order: 4
 | 연도 | 상세 |
 | --- | --- |
 | 2024 | 전국대학생로켓발사대회 발사부문 금상 (한국항공우주연구원장상) |
-| 2024 | 창의적 종합설계 경진대회 예선 동상 (부산대학교 공학교육혁신센터장상) |
-| 2024 | 경상국립대 RE-Meet 연구체험 프로그램 우수상 (항공우주공학부장상) |
-| 2024 | 경상국립대 동아리 학술대회 은상 (항공우주공학부장상) |
-| 2024 | GNU ICEE 창의융합공학동아리 경진대회 장려상 (경상국립대학교 공학교육혁신센터장상) |
+| 2024 | 창의적 종합설계 경진대회 예선 동상 |
+| 2024 | 경상국립대 RE-Meet 연구체험 프로그램 우수상 |
+| 2024 | 경상국립대 동아리 학술대회 은상 |
+| 2024 | GNU ICEE 창의융합공학동아리 경진대회 장려상 |
 
 **Completion details (외부 교육)**
 

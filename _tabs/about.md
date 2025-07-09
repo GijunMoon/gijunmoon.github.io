@@ -11,7 +11,7 @@ order: 4
 
   <p>
     <i class="fas fa-lightbulb"></i>
-    &nbsp;Main area of interest: system software, software optimization
+    &nbsp;Key Areas of Interest: System SW, Mobility <br/> Detailed areas of interest: Edge AI, MUM-T, UAV Communication
   </p>
 </aside>
 
